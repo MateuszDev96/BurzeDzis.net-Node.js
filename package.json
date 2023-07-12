@@ -2,7 +2,7 @@
     "name": "burzedzis.net-node.js",
     "version": "1.0.0",
     "description": "Simple api to service Burzedzis.net written in node.js",
-    "main": "node app",
+    "main": "index.js",
     "author": "Mateusz Jura",
     "license": "MIT"
 }
